@@ -42,3 +42,10 @@
 - **系统**：本程序是桌面小工具，不联网答题，数据不出你电脑（除非你自己发了截图）。
 
 祝测得开心；若结果让你皱眉，那是量表在说话，不是命定论。
+
+---
+
+## 版权与出处
+
+本项目中测试题目、配图等内容来源于 [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test)。
+原作者见 B 站视频：[我做了个盗版SBTI测试，且骗人来测](https://www.bilibili.com/video/BV1LpDHByET6/?vd_source=c0cfae3d0b8b3d4f6beb8d5c3b3e4e10)。
